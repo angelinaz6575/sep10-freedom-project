@@ -1,7 +1,7 @@
-# Entry 1
-##### X/X/XX
+# Entry 1: Deciding on my topic (Business)
+##### 10/8/25
 
-Text
+Choosing a topic
 
 [Next](entry02.md)
 
