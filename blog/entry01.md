@@ -22,7 +22,7 @@ ________________________________________________________________________________
   <li> <h3> Googling </h3> </li>
 </ul>
 
-<p> Whenever I go on the internet to google for something or for answers, I don't randomly go to a random website, or look at all links that pops up. Instead, I find it helpful to read the titles and the description of the website to find what I'm searching for. Seeing actually good intentional website title and descriptions makes me choose the website to use to find answers since it's more reliable. Titles like The Intersection of Business and Technology <a href="https://online.marymount.edu/blog/intersection-business-and-technology" </a>is a good example of a good title to look at, instead of other titles which may say "(#) why ....." or a long title name with parenthesis. </p>
+<p> Whenever I go on the internet to google for something or for answers, I don't randomly go to a random website, or look at all links that pops up. Instead, I find it helpful to read the titles and the description of the website to find what I'm searching for. Seeing actually good intentional website title and descriptions makes me choose the website to use to find answers since it's more reliable. Titles like The Intersection of Business and Technology <a href="https://online.marymount.edu/blog/intersection-business-and-technology"></a>is a good example of a good title to look at, instead of other titles which may say "(#) why ....." or a long title name with parenthesis. </p>
 
 
 
