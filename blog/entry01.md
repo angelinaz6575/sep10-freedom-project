@@ -1,4 +1,4 @@
-777777# Entry 1: Deciding on my topic (Business)
+Entry 1: Deciding on my topic (Business)
 ##### 10/8/25
 
 # Choosing a topic
