@@ -26,6 +26,8 @@ But other than computers, there is much more software and technologies out there
 
 * Accounting softwares are softwares that is used to help manage transactions, track incomes, expenses and financials reports
   * [https://www.investopedia](https://www.investopedia.com/terms/a/accounting-software.asp)
+    * Reduces cost, minimizes physical storage
+    * Facilitates the recording and reporting of financial transactions
 
 ## Part B: possible future technology
 * Idea
