@@ -34,6 +34,16 @@ But other than computers, there is much more software and technologies out there
 
 * Smart pen can be used to record down notes from paper to computers.
   * [https://upload.wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/b/b4/Livescribeecho.png)
+    * Records every stroke you make on the paper with the pen
+    * Syncs with your device and connected with bluetooth
+    * Can audio record while writing
+
+**Portable Projector**
+<p>You may seen these at like movie theatres, but don't know what is is called. It's a portable projector!</p>
+
+*Portable projector can be used when traveling and sharing your ideas to groups of audience in a room
+  * [https://pixcio.com](https://pixnio.com/objects/electronics-devices/projector-device-computer-technology-black-light-bulb-light)
+    * 
 
 
 ## Part B: Possible future technology
