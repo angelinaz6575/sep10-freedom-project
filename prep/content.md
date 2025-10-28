@@ -41,9 +41,21 @@ But other than computers, there is much more software and technologies out there
 **Portable Projector**
 <p>You may seen these at like movie theatres, but don't know what is is called. It's a portable projector!</p>
 
-*Portable projector can be used when traveling and sharing your ideas to groups of audience in a room
+* Portable projector can be used when traveling and sharing your ideas to groups of audience in a room
   * [https://pixcio.com](https://pixnio.com/objects/electronics-devices/projector-device-computer-technology-black-light-bulb-light)
-    * 
+    * Projects images or videos on a screen or surface
+    * Easy for transporting
+
+    
+**Pen Scanner**
+<p> Pen scanners? Well.. does it scan pen inks..? Yes it does, not just pen inks but also digit texts and can also do something very interesting!</p>
+
+* Pen scanners can be used to help translate multiple languages.
+  * [https://www.mbreviews.com](https://www.mbreviews.com/best-pen-scanner-digital-highlighter/)
+    * Can be connected through bluetooth or USB or more
+    * Scan texts and translate it to dozens of languages
+    * Have a text-to-speech function
+    * Can translate offline (no internet connection)
 
 
 ## Part B: Possible future technology
