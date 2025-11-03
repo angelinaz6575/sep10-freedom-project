@@ -7,7 +7,7 @@ The topic I decided on for this project was business fields because I've always 
 
 
 # Engineering Design Process
-The first part of engineering design process is to figure out the problem that I would hope to solve in my project, which is how network outages disrupt productiviy. The next step of the design process is to research the problem, and talk to my peers, or search on google, or any reliable sources I can use to find on the internet, about solutions for the issue that could work to help the business field with better technology.
+The first part of engineering design process is to figure out the problem that I would hope to solve in my project, which is how network outages disrupt productivity. The next step of the design process is to research the problem, and talk to my peers, or search on google, or any reliable sources I can use to find on the internet, about solutions for the issue that could work to help the business field with better technology.
 
 
 # Skills
