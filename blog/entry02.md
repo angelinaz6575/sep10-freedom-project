@@ -14,7 +14,13 @@ The software and hardware technologies that I found in my topic were Customer Re
 
  ### Engineering Design Process
 
-I already finished the first part of the process, which is determining the problem. The problem is network distrupt productivity usages.
+I already finished the first part of the process, which is determining the problem. The problem is network outages disrupt productivity. Now I am on the 2nd step of the process which I need to research the problem. Network outages disrupt productivity because empployees can loose their access or file thats needed to perform their jobs. Communication are also cut off because they can't communicate with each other. The inability to work together efficiently can cause fustration among the workers which will make them slack off and unfocused when their is a network outage. 
+
+## Skills
+
+### Time Management
+I'm always busy afterschool especially during the first 3 months of school because I am in the HSTAT girls volleyball team. Being in a team really take up a lot of homework time because there is always practices afterschool for like 3 hours. Throughout the month we have our season games too, which we get home late or early depending on the game. Then, I have a lot of homework to do right when I get home. I distribute my time evenly so each of my homework can have some progress done, or to be completed. 
+
 
 
 
