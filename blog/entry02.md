@@ -14,7 +14,7 @@ The software and hardware technologies that I found in my topic were Customer Re
 
  ### Engineering Design Process
 
- 
+I already finished the first part of the process, which is determining the problem. The problem is network distrupt productivity usages.
 
 
 
