@@ -1,7 +1,7 @@
 # Entry 2
 ##### 11/3/25
 
-### Content
+<h2> Context </h2>
 
 The software and hardware technologies that I found in my topic were Customer Relationship Management, Accounting software, Portable projectors, and pen scanners. 
 
@@ -12,7 +12,7 @@ The software and hardware technologies that I found in my topic were Customer Re
 
  I searched up "Technologies in business" and that's where I found the software to my topic, but nothing really for gadgets. Instead I changed my searches to "Gadgets in business" which showed me the items that people in the business field use to help them.
 
- ### Engineering Design Process
+ <h2>Engineering Design Process</h2>
 
 I already finished the first part of the process, which is determining the problem. The problem is network outages disrupt productivity. Now I am on the 2nd step of the process which I need to research the problem. Network outages disrupt productivity because empployees can loose their access or file thats needed to perform their jobs. Communication are also cut off because they can't communicate with each other. The inability to work together efficiently can cause fustration among the workers which will make them slack off and unfocused when their is a network outage. 
 
