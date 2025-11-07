@@ -21,7 +21,8 @@ I already finished the first part of the process, which is determining the probl
 ### Time Management
 I'm always busy afterschool especially during the first 3 months of school because I am in the HSTAT girls volleyball team. Being in a team really take up a lot of homework time because there is always practices afterschool for like 3 hours. Throughout the month we have our season games too, which we get home late or early depending on the game. Then, I have a lot of homework to do right when I get home. I distribute my time evenly so each of my homework can have some progress done, or to be completed. 
 
-
+### Googling
+When researching, people can especially mix up words or use the wrong words to search up for things you need to find. Instead, you can just find a similiar or synonym word for the specific detail you're looking for. For example, When I was researching the softwares and hardwares for the business topic, I searched up "Technologies in business" which showed me the softwares. I really thought it would show me the actual devices, but no. I had to change the word 'technology' to 'gadget' so then I searched "Gadgets in business" which then showed me the devices.
 
 
 [Previous](entry01.md) | [Next](entry03.md)
