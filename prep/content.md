@@ -12,7 +12,11 @@ But other than computers, there is much more software and technologies out there
 ## Part A: Existing software and hardware
  * I searched up "technologies used in business fields" and this is what came up for existing softwares/technologies.
    * [https://uk.indeed.com](https://uk.indeed.com/career-advice/career-development/what-are-business-technologies)
- 
+
+
+ ### Categories: Softwares from most complex to least
+
+ #### Complex:
 **Customer Relationship Management (CRM)**
 <p>You probably didn't know what customer relationship managment is right? This is a software used in business to help with customer relationships.</p>
 
@@ -20,7 +24,14 @@ But other than computers, there is much more software and technologies out there
     * [https://ww.oracle.com](https://www.oracle.com/cx/what-is-crm/#:~:text=A%20CRM%20system%20gathers%2C%20links,solid%20customer%20relationship%20is%20built.)
       * This software help collect data from customers, and help complete their profile and a solid relationship is built.
       * This software help increase sales and profits
-    
+      
+  **Human Resource Management**
+   * This software helps direct, plan, coordinate the administrative functions of an organization. This can include hiring new staffs, interviewing and recruiting.
+     * [https://www.bls.gov](https://www.bls.gov/ooh/management/human-resources-managers.htm#tab-2)
+       * Helps with hiring process
+       * Supervise and supports staff
+       
+#### Least Complex:
 **Accounting Software**
 <p> Maybe you haven't heard of this one too! This is also a software used in business, which is very helpful to keep track of things.</p>
 
