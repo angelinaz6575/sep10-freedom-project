@@ -14,9 +14,9 @@ But other than computers, there is much more software and technologies out there
    * [https://uk.indeed.com](https://uk.indeed.com/career-advice/career-development/what-are-business-technologies)
 
 
- ### Categories: Softwares from most complex to least
+ ### Categories: Softwares and hardwares from most complex to least
 
- #### Complex:
+ #### Most complex:
 **Customer Relationship Management (CRM)**
 <p>You probably didn't know what customer relationship managment is right? This is a software used in business to help with customer relationships.</p>
 
@@ -30,6 +30,15 @@ But other than computers, there is much more software and technologies out there
      * [https://www.bls.gov](https://www.bls.gov/ooh/management/human-resources-managers.htm#tab-2)
        * Helps with hiring process
        * Supervise and supports staff
+      
+**Smart Pen**
+<p> A smart pen? That's new. A smart pen is a digital writing technology. This is very useful for transferring your notes from your paper to your computer/smartphone. </p>
+
+* Smart pen can be used to record down notes from paper to computers.
+  * [https://upload.wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/b/b4/Livescribeecho.png)
+    * Records every stroke you make on the paper with the pen
+    * Syncs with your device and connected with bluetooth
+    * Can audio record while writing
        
 #### Least Complex:
 **Accounting Software**
@@ -39,15 +48,6 @@ But other than computers, there is much more software and technologies out there
   * [https://www.investopedia](https://www.investopedia.com/terms/a/accounting-software.asp)
     * Reduces cost, minimizes physical storage
     * Facilitates the recording and reporting of financial transactions
-    
-**Smart Pen**
-<p> A smart pen? That's new. A smart pen is a digital writing technology. This is very useful for transferring your notes from your paper to your computer/smartphone. </p>
-
-* Smart pen can be used to record down notes from paper to computers.
-  * [https://upload.wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/b/b4/Livescribeecho.png)
-    * Records every stroke you make on the paper with the pen
-    * Syncs with your device and connected with bluetooth
-    * Can audio record while writing
 
 **Portable Projector**
 <p>You may seen these at like movie theatres, but don't know what is is called. It's a portable projector!</p>
