@@ -69,9 +69,16 @@ But other than computers, there is much more software and technologies out there
     * Can translate offline (no internet connection)
 
 
-## Part B: Possible future technology
-* One possible future technology or software that could be used in business is edge computing and 6G networks.
+## Part B: Possible future technologies
+* One possible future technology or software that could be used in business is 6G networks.
   * [https://www.toptech.team](https://www.toptech.team/blogs/tech-evolution-whats-next-the-next-5-years-in-tech-whats-coming/#:~:text=What%20are%20the%20Technology%20predictions,%2C%20biotechnology%2C%20and%20sustainable%20tech.)
     * 6G is the 6th generation of mobile technology network
       * 6G network reaches 1 terbait per second (tbps), 100x faster than 5G
-      * Could lead tro new ways of interacting with people/customers
+     
+* A portable wifi where you can get wifi anywhere with the portable, and it has its own wifi.
+  * How this work is you have a portable that have wifi, and it runs on battery.
+  * You can use it as long as you want until the battery runs out
+  * Easy for transporting
+  * It can be used when there is no wifi anywhere
+  * You plug the usb into the device you want to have wifi for.
+  * Have USB a, b, and c
