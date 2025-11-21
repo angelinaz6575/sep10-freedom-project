@@ -9,7 +9,7 @@ As we all know, in the business field everyone uses technologies. The main impor
   
 But other than computers, there is much more software and technologies out there that helps us in the business field. Lets explore! 
 
-## Part A: Existing software and hardware
+## Existing software and hardware
  * I searched up "technologies used in business fields" and this is what came up for existing softwares/technologies.
    * [https://uk.indeed.com](https://uk.indeed.com/career-advice/career-development/what-are-business-technologies)
 
@@ -69,7 +69,7 @@ But other than computers, there is much more software and technologies out there
     * Can translate offline (no internet connection)
 
 
-## Part B: Possible future technologies
+## Possible future technologies
 * One possible future technology or software that could be used in business is 6G networks.
   * [https://www.toptech.team](https://www.toptech.team/blogs/tech-evolution-whats-next-the-next-5-years-in-tech-whats-coming/#:~:text=What%20are%20the%20Technology%20predictions,%2C%20biotechnology%2C%20and%20sustainable%20tech.)
     * 6G is the 6th generation of mobile technology network
