@@ -33,7 +33,9 @@ But other than computers, there is much more software and technologies out there
       
 **Smart Pen**
 <p> A smart pen? That's new. A smart pen is a digital writing technology. This is very useful for transferring your notes from your paper to your computer/smartphone. </p>
+* IMG:
 
+  * ![](https://upload.wikimedia.org/wikipedia/commons/b/b4/Livescribeecho.png)
 * Smart pen can be used to record down notes from paper to computers.
   * [https://upload.wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/b/b4/Livescribeecho.png)
     * Records every stroke you make on the paper with the pen
@@ -51,7 +53,9 @@ But other than computers, there is much more software and technologies out there
 
 **Portable Projector**
 <p>You may seen these at like movie theatres, but don't know what is is called. It's a portable projector!</p>
+*IMG: 
 
+  * ![](https://upload.wikimedia.org/wikipedia/commons/0/08/JVC_D-ILA_projector.jpg)
 * Portable projector can be used when traveling and sharing your ideas to groups of audience in a room
   * [https://pixcio.com](https://pixnio.com/objects/electronics-devices/projector-device-computer-technology-black-light-bulb-light)
     * Projects images or videos on a screen or surface
@@ -61,6 +65,7 @@ But other than computers, there is much more software and technologies out there
 **Pen Scanner**
 <p> Pen scanners? Well.. does it scan pen inks..? Yes it does, not just pen inks but also digit texts and can also do something very interesting!</p>
 
+* ![](https://www.newyes.com/products/newyes-scan-reader-pen-4)
 * Pen scanners can be used to help translate multiple languages.
   * [https://www.mbreviews.com](https://www.mbreviews.com/best-pen-scanner-digital-highlighter/)
     * Can be connected through bluetooth or USB or more
@@ -71,6 +76,8 @@ But other than computers, there is much more software and technologies out there
 
 ## Possible future technologies
 * One possible future technology or software that could be used in business is 6G networks.
+* IMG:
+  * ![](https://upload.wikimedia.org/wikipedia/commons/9/9f/WiFi_icon.svg)
   * [https://www.toptech.team](https://www.toptech.team/blogs/tech-evolution-whats-next-the-next-5-years-in-tech-whats-coming/#:~:text=What%20are%20the%20Technology%20predictions,%2C%20biotechnology%2C%20and%20sustainable%20tech.)
     * 6G is the 6th generation of mobile technology network
       * 6G network reaches 1 terbait per second (tbps), 100x faster than 5G
