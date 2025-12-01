@@ -11,6 +11,15 @@ After defining the problem, I came up a solution that might work. Now this is st
 
 ## Skills
 
+### Collaboration
+I learned how to work with my partners either with friends or without friends in my group. I also learned how to share my ideas and contribute to discussions in the group to come up with an idea that we all can agree upon on. For example, when I had no one that I know in my group in any sort of class, I was struggling at first but then I later on overcomed it by getting out of my comfort zone and started talking and contributing and participating in the group work. 
+
+
+
+
+### Leadership
+I learned how to lead in group works when everyone is shy and scared to talk first. I talked first so that everyone can start getting comfortable and start talking. I also learned how to put my ideas while not following other people ideas just by listening to it. For example, When there is no people talking in a group setting, I gathered my courage to talk first so then everyone else can start following me to start talking. Another example is that in groups, when people come up with their ideas, I came up with mine and not follow theirs because I have the thoughts that my idea is better, so I talk it out with my group members.
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
