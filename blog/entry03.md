@@ -9,6 +9,8 @@ So, my solution to my problem is that since there is an network outage that cuts
 
 After defining the problem, I came up a solution that might work. Now this is step 3 of the engineering design process which is to brainstorm possible solutions for the problem. My possible solution is a portable network so that business people can get back online with their customers to continue their chatting and other things during a network outage so the communication between workers and the customers is still going, and that the files needed to perform their jobs is saved and not lost due to the network outage. 
 
+## Skills
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
