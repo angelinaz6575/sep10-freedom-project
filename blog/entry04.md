@@ -63,9 +63,34 @@ This was my 3rd option as a tool to use for my project. This [website](https://a
 
  One the best things about these website is that it has already given you most of the code. You just have to copy and paste then edit it yourself to your liking.
 
- For example, if I want a sphere, then I would go to sections full of shapes and go to sphere to copy and paste this code: ` <a-sphere color="yellow" radius="5"></a-sphere> `. This is already set up as: 
+ For example, if I want a sphere, then I would go to sections full of shapes and go to sphere to copy and paste this code on jsbin `<a-sphere position="0 1.25 -5" radius="1.25" color="red"></a-sphere>`. This is already set up as:
+ <img src="aframe.png"> </img>
+
+ Another example is this. ` <a-cylinder color="cyan" segments-radial="6"></a-cylinder> ` This is also another shape, but the `segments-radical="6"` represents how many sides it should have. So when it says 6, then it would have 6 sides. If it were to have the numbers 1-5 in the property, then we the shape will have the number 1-5 in the shape.
+
+ Using the mumber 6 in the property, it'll look like this:
+
+ <img src="aframe1.png"> </img>
+
+ If there were to be 3 10 sides, it'll look like this:
+
+ <img src="aframe2.png"> </img>
 
 
+ # Skills
+
+### Researching
+
+One of the skills I had developed when doing this tool-finding homework was researching. By researching, I mean like actually trying out the website, and playing around with the code to see if I like it or not. I researched because not only did I have to see if it's easy to use, but I had to see if I understand how to use the tools I'm researching. If I don't, then likely it's not good for me to use it during my project. Researching allowed me to dig deep in to see if it's:
+* Easy to use
+* I can undertand well
+* Deidcated to using it
+
+This applies to all 2 of the websites I'm using for my project. At first, I didn't understand any of the things in it. But after researching, like tinkering around with it on jsbin and the website itself, and reading sections to see how it works, at the end I understand how to use it.
+
+### Trying new things
+
+This is also one of a new skills I had developed. Usually, I would never try new things if I hadn't learn it yet. But I figured it's time to step out of my comfort zone and really try new things I don't know how to do. I would always wait for like a adult to discover new ideas or things to me before I would do it too. This connects back to this entire blog because my teacher didn't teach me what Aframe is, or what CSS flexbox and grid is. I had to really work and try things myself.
 
 
 
