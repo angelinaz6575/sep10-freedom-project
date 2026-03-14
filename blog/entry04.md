@@ -4,10 +4,10 @@
 ## Content
 Part of coding our website is going to know how we are going to code it. This means we are researching tools that we feel confident with using while coding. I did my own research, and here are the tools I picked: CSS flexbox, CSS grid, and Aframe.
 
-#### CSS flexbox
+### CSS flexbox
 I chose CSS flexbox because I find it easy to work with. Using this [website](https://www.w3schools.com/css/css3_flexbox.asp), they gave many examples and readings on how to use CSS flexbox. I took this into consideration and started practing the codes that they had set up for me to practice.
 
-<p>For example,</p>
+For example,
 
 <img src="cssflexbox1.png"> </img>
 
@@ -21,10 +21,49 @@ A few of these are:
 * `align-items` - Aligns the flex items when they do not use all available space on the cross-axis (vertically)
 
 <img src="cssflexbox2.png"> </img>
+
 If we apply the `display` and `flex-direction` it will turn out to be:
+
 <img src="cssflexbox3.png"> </img>
 
-#### CSS grid
+### CSS grid
+
+This was my second option in researching a tool to use for my projext. The Grid Layout Module offers a grid-based layout system, with rows and columns. The *Grid Layout Module* makes it easy to design a responsive layout structure, without using `float` or positioning.
+
+One of the things I had tinkered with is the CSS grid-template-columns Property.
+
+* `grid-template-columns` - Defines the number and width of the columns in the grid
+* `grid-template-rows` - Defines the number and height of the rows in the grid
+* `grid-template-areas` - Defines how to display columns and rows, using named grid items
+
+I chose one of the three, which is `grid-template-columns`. If we're defining the number and width of the colums in the grid, there is different common values to do this.
+
+* Fixed lengths (100px 300px 200px)
+* Percentages (20% 60% 20%)
+* fr unit (1fr 2fr 1fr)
+* auto (auto auto auto)
+* repeat() (repeat(3, 1fr))
+* minmax() (minmax(80px, 1fr) 150px 150px)
+
+I worked with the `auto`. This means that the `auto` creats however many columns. If you put 1x auto, then there will only be one column. If you put 2x auto, then here will be 2 column.
+
+Heres an example:
+
+<img src="cssgrid1.png"> </img>
+
+There is 3x auto, meaning there will be 3 columns created. If there would be 2x auto, then it will look like this:
+
+<img src="cssgrid2.png"> </img>
+
+You can already probably guess what it'll look like if there were only 1 auto.
+
+### Aframe
+
+
+
+
+
+
 
 
 
