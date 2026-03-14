@@ -28,7 +28,7 @@ If we apply the `display` and `flex-direction` it will turn out to be:
 
 ### CSS grid
 
-This was my second option in researching a tool to use for my projext. The Grid Layout Module offers a grid-based layout system, with rows and columns. The *Grid Layout Module* makes it easy to design a responsive layout structure, without using `float` or positioning.
+This was my second option in researching a tool to use for my projext. Using the same website as CSS flexbox, I learned The Grid Layout Module offers a grid-based layout system, with rows and columns. The *Grid Layout Module* makes it easy to design a responsive layout structure, without using `float` or positioning.
 
 One of the things I had tinkered with is the CSS grid-template-columns Property.
 
@@ -58,6 +58,16 @@ There is 3x auto, meaning there will be 3 columns created. If there would be 2x 
 You can already probably guess what it'll look like if there were only 1 auto.
 
 ### Aframe
+
+This was my 3rd option as a tool to use for my project. This [website](https://aframe.io/) can help create VR experiences and 3D models. To use this code, it's mainly based off of using HTML. To apply this, we're going to need to apply the starter code ` <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script> ` for the Aframe codes to work.
+
+ One the best things about these website is that it has already given you most of the code. You just have to copy and paste then edit it yourself to your liking.
+
+ For example, if I want a sphere, then I would go to sections full of shapes and go to sphere to copy and paste this code: ` <a-sphere color="yellow" radius="5"></a-sphere> `. This is already set up as: 
+
+
+
+
 
 
 
