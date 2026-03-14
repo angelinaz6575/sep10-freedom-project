@@ -9,7 +9,7 @@ I chose CSS flexbox because I find it easy to work with. Using this [website](ht
 
 For example,
 
-<img src="cssflexbox1.png"> </img>
+<img src="cssflexbox1.png"></img>
 
 This shows a flex box for CSS. What this does is that it helps align, arrange or distribute spaces within a container. It arranges them horizontally, or vertically (rows or columns) in a responsive way. The code in the ` .container ` selector, ` display: flex; ` makes the element into a container so that ti can automatically be responsive. There are also other flexbox properties thats similar to ` flex `.
 
@@ -49,11 +49,11 @@ I worked with the `auto`. This means that the `auto` creats however many columns
 
 Heres an example:
 
-<img src="cssgrid1.png"> </img>
+<img src="cssgrid1.png" width="350" height="100"> </img>
 
 There is 3x auto, meaning there will be 3 columns created. If there would be 2x auto, then it will look like this:
 
-<img src="cssgrid2.png"> </img>
+<img src="cssgrid2.png" width="350" height ="100"> </img>
 
 You can already probably guess what it'll look like if there were only 1 auto.
 
@@ -64,17 +64,17 @@ This was my 3rd option as a tool to use for my project. This [website](https://a
  One the best things about these website is that it has already given you most of the code. You just have to copy and paste then edit it yourself to your liking.
 
  For example, if I want a sphere, then I would go to sections full of shapes and go to sphere to copy and paste this code on jsbin `<a-sphere position="0 1.25 -5" radius="1.25" color="red"></a-sphere>`. This is already set up as:
- <img src="aframe.png"> </img>
+ <img src="aframe.png" width="200" height="150"> </img>
 
  Another example is this. ` <a-cylinder color="cyan" segments-radial="6"></a-cylinder> ` This is also another shape, but the `segments-radical="6"` represents how many sides it should have. So when it says 6, then it would have 6 sides. If it were to have the numbers 1-5 in the property, then we the shape will have the number 1-5 in the shape.
 
  Using the mumber 6 in the property, it'll look like this:
 
- <img src="aframe1.png"> </img>
+ <img src="aframe1.png" width="200" height="150"> </img>
 
  If there were to be 3 10 sides, it'll look like this:
 
- <img src="aframe2.png"> </img>
+ <img src="aframe2.png" width="200" height ="150"> </img>
 
 
  # Skills
