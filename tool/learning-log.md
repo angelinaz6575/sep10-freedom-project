@@ -1,6 +1,6 @@
 # Tool Learning Log
 
-## Tool: **CSS flexbox/grid, Aframe**
+## Tool: **CSS flexbox/grid**
 
 LL1
 
@@ -18,9 +18,31 @@ LL1
         * Values: `center` `flex-start` `flex-end` `space-around` `space-between` `space-evenly`
 
 
-
-### 3/14/26: CSS Grid
+LL2
+### 3/29/26: CSS Grid
 [Link](https://www.w3schools.com/css/css_grid.asp)
+
+* `grid-template-columns: auto auto auto` shows how many columns there is
+
+    * `auto` = one column
+    * `auto auto` = two column
+    * `1fr` splits the column evenly
+    * `2fr` sets it as twice as big
+
+I used the `grid-template-coumn` property and used 5 `autos` and made 5 columns.
+<img src="grid1.png"></img>
+
+* You can set the column sizes
+
+
+  *  `grid-template-columns: auto auto auto;`
+
+* A `gap` allows spaces between the grids
+
+  * Gaps between `column` and `row`
+  * `column-gap` - Specifies the gap between grid columns
+  * `row-gap` - Specifies the gap between grid rows
+  * `gap` - Shorthand property for row-gap and column-gap
 
 
 
