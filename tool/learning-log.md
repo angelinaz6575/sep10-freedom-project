@@ -66,7 +66,25 @@ Example with the `space-evenly` property:
 Example with the `center` property:
 <img src="grid3.png"> </img>
 
-LL4 (CSS place-content property)
+LL4
+#### 4/15/26
+
+[Link](https://www.w3schools.com/css/css_grid_align.asp)
+
+Learned two CSS grid property for spacing:
+
+1. `justify-content` used for spacing horizontally
+2. `align-content` used for spacing vertically
+
+Example: Using `space-evenly`
+#### Justify-content:
+<img src="grid2.png"> </img>
+It spaces them horizontally
+
+#### Align-content:
+<img src="grid4.png"> </img>
+It spaces them vertically
+
 
 
 
