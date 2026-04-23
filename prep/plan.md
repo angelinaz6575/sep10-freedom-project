@@ -1,7 +1,7 @@
 # Plan
 
 ## Wireframes
-https://wireframe.cc/2api2S (desktop)
+githttps://wireframe.cc/2api2S (desktop)
 https://wireframe.cc/wK8CqB (Mobile)
 
 ## Colors
