@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/2api02S)
+* [Desktop](https://wireframe.cc/wK8CqB)
 
 ## Colors
 * `#ABC123`
@@ -29,7 +29,7 @@
 
 <!-- DO NOT USE THIS YET
 
-#### Peer Feedback 
+#### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
