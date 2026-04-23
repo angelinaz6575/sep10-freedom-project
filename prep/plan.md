@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-githttps://wireframe.cc/2api2S (desktop)
-https://wireframe.cc/wK8CqB (Mobile)
+* [Mobile](https://wireframe.cc/2api2S)
+* [Desktop](https://wireframe.cc/wK8CqB)
 
 ## Colors
 * `#ABC123`
