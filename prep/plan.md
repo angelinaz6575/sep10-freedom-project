@@ -7,6 +7,7 @@
 ## Colors
 * Pink
 * White
+* Black
 
 ## Fonts
 * [Text](URL)
