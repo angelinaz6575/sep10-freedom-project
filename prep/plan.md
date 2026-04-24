@@ -5,9 +5,9 @@
 * [Desktop](https://wireframe.cc/wK8CqB)
 
 ## Colors
-* Pink
+* Pink 
 * White
-* Black
+* Black (fonts)
 
 ## Fonts
 * [Luckiest Guy (Title)](https://fonts.google.com/specimen/Luckiest+Guy?preview.script=Latn&preview.lang=en_Latn&lang=en_Latn&categoryFilters=Feeling:%2FExpressive%2FLoud)
