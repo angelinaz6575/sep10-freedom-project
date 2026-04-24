@@ -5,9 +5,11 @@
 * [Desktop](https://wireframe.cc/wK8CqB)
 
 ## Colors
-* Pink 
-* White
-* Black (fonts)
+* Pink - #ffd9e0 Background For header & Overview section
+* Darker Pink- #edb9c3 Background For Existing technology
+* Purplish Pink- #fcdef3 Background For Future Innovations
+* White - Navbar & img border
+* Black - Fonts
 
 ## Fonts
 * [Luckiest Guy (Title)](https://fonts.google.com/specimen/Luckiest+Guy?preview.script=Latn&preview.lang=en_Latn&lang=en_Latn&categoryFilters=Feeling:%2FExpressive%2FLoud)
