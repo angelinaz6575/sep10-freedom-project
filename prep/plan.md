@@ -5,7 +5,8 @@
 * [Desktop](https://wireframe.cc/wK8CqB)
 
 ## Colors
-* `#ABC123`
+* Pink
+* White
 
 ## Fonts
 * [Text](URL)
@@ -14,7 +15,8 @@
 
 #### MVP
 
-* Task/Timeline
+* F 4/24 - Start adding CSS to decorate the background and find fonts to use
+* M 4/27 - Start adding codes in HTML (Navbar + Header)
 
 ---
 
