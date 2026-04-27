@@ -22,12 +22,14 @@
 
 * F 4/24 - Start adding CSS to decorate the background and find fonts to use
 * M 4/27 - Start adding codes in HTML (Navbar + Header)
+* T 4/28 - Continue coding (Overview + Part A)
+* W 4/29 - Continue coding (Part B)
 
 ---
 
 #### Beyond MVP
 
-* Task
+* Fixing and organizing codes
 
 
 
