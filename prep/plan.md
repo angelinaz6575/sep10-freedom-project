@@ -12,14 +12,14 @@
 
 ## Fonts
 * [Luckiest Guy (Title)](https://fonts.google.com/specimen/Luckiest+Guy?preview.script=Latn&preview.lang=en_Latn&lang=en_Latn&categoryFilters=Feeling:%2FExpressive%2FLoud)
-* [Cherry Cream Soda (Subheading)](https://fonts.google.com/specimen/Cherry+Cream+Soda?preview.script=Latn&preview.lang=en_Latn&lang=en_Latn&categoryFilters=Feeling:%2FExpressive%2FHappy)
-* [Noto Seif Display (paragraphs)](https://fonts.google.com/noto/specimen/Noto+Serif+Display?preview.script=Latn&preview.lang=en_Latn&lang=en_Latn&categoryFilters=Feeling:%2FExpressive%2FBusiness)
+* [Cherry Cream Soda (Subheading)](<link href="https://fonts.googleapis.com/css2?family=Cherry+Cream+Soda&display=swap" rel="stylesheet">)
+* [Noto Seif Display (paragraphs)](<link href="https://fonts.googleapis.com/css2?family=Cherry+Cream+Soda&family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">)
 
 ## Timeline
 
 #### MVP
 
-* F 4/24 - Start adding CSS to decorate the background and find fonts to use 
+* F 4/24 - Start adding CSS to decorate the background and find fonts to use
 * M 4/27 - Start adding codes in HTML (Navbar + Header)
 * T 4/28 - Continue coding (Overview + Part A)
 * W 4/29 - Continue coding (Part B)
