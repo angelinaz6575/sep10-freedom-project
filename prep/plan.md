@@ -1,9 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile](https://wireframe.cc/2api2S)
-* [Desktop](https://wireframe.cc/wK8CqB)
-
+* [Mobile](https://wireframe.cc/wK8CqB)
+* [Desktop](https://wireframe.cc/2api2S)
 ## Colors
 * Pink - #ffd9e0 Background For header & Overview section
 * Darker Pink- #edb9c3 Background For Existing technology
