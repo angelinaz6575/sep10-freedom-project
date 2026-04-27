@@ -15,6 +15,9 @@
 * [Cherry Cream Soda (Subheading)](<link href="https://fonts.googleapis.com/css2?family=Cherry+Cream+Soda&display=swap" rel="stylesheet">)
 * [Noto Seif Display (paragraphs)](<link href="https://fonts.googleapis.com/css2?family=Cherry+Cream+Soda&family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">)
 
+## Logo
+* [github](https://icons.getbootstrap.com/icons/github/)
+
 ## Timeline
 
 #### MVP
