@@ -11,6 +11,7 @@ h1 {
 h2 {
     font-family: Luckiest Guy;
     padding: 20px;
+    text-align: center;
 
 }
 h4 {
@@ -25,3 +26,8 @@ p{
 .bg-1{
  background-color: #edb9c3;
 }
+
+.bg-2{
+    background-color: #fcdef3;
+}
+

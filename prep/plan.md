@@ -26,6 +26,7 @@
 * M 4/27 - Start adding codes in HTML (Navbar + Header)
 * T 4/28 - Continue coding (Overview + Part A)
 * W 4/29 - Continue coding (Part B)
+* S 5/3 - Add future tech and work on tools (Aframe)
 
 ---
 
