@@ -33,7 +33,9 @@
 #### Beyond MVP
 
 * Fixing and organizing codes
-
+* Add card borders
+* Fix alignment issues
+* Add images
 
 
 

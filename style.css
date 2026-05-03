@@ -20,11 +20,26 @@ h4 {
 }
 
 p{
-    font-family: Noto Seif Display;
+    font-family: Noto Serif Display;
     padding: 20px;
 }
 .bg-1{
  background-color: #edb9c3;
+ padding-bottom: 40px;
+}
+.card {
+    margin: 0 auto;
+}
+
+.aframe {
+  width: 400px;
+  height: 300px;
+  justify-content: center;
+  margin-left: 40px;
+}
+
+.bg-4{
+background-color: #fcdef3;
 }
 
 .bg-2{
