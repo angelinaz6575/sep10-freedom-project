@@ -19,9 +19,13 @@ h4 {
 }
 
 p{
-    font-family: Noto Seif Display;
+    font-family: Noto Serif Display;
     padding: 20px;
 }
 .bg-1{
  background-color: #edb9c3;
+ padding-bottom: 40px;
+}
+.card {
+    margin: 0 auto;
 }
