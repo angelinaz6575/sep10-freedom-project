@@ -6,13 +6,14 @@ h1 {
     font-family: Luckiest Guy;
     padding: 20px;
     text-align: center;
+    color:#db95a8;
 }
 
 h2 {
     font-family: Luckiest Guy;
     padding: 20px;
     text-align: center;
-
+    color: #9c5a6c;
 }
 h4 {
     text-align:center;
@@ -36,6 +37,8 @@ p{
   height: 300px;
   justify-content: center;
   margin-left: 40px;
+  border: 5px solid;
+  border-color: #CFB2B2;
 }
 
 .bg-4{
@@ -44,4 +47,8 @@ background-color: #fcdef3;
 
 .bg-2{
     background-color: #fcdef3;
+}
+.bg-5{
+    background-color:#ffffff;
+    border: 2px;
 }
