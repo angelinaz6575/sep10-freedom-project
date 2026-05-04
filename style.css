@@ -54,7 +54,14 @@ p{
 
 }
 
+
 .p5 {
     font-size: 20px;
+}
+
+
+.fixed-img {
+  height: 200px;
+  width: 100%;
 }
 
