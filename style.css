@@ -42,7 +42,7 @@ p{
 }
 
 .bg-4{
-background-color: #fcdef3;
+    background-color: #fcdef3;
 }
 
 .bg-2{
@@ -51,4 +51,5 @@ background-color: #fcdef3;
 .bg-5{
     background-color:#ffffff;
     border: 2px;
+
 }
