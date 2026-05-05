@@ -48,7 +48,7 @@
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 | Fatema | i really love how you made the usb using aframe because it is very detailed like the two squares and the rectangle on the grey part it looks like a real usb | I think you should add one more future technology just because it looks empty and when you scroll down it ends fast but it looks really cool. |
-|  |  |  |
+|Ocean  |The A-Frame model is very detailed and accurate  |The images feel stretched wrong  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
