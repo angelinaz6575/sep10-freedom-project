@@ -36,7 +36,8 @@
 * Add card borders
 * Fix alignment issues
 * Add images
-
+* Add another duture technology
+* Delete the support button on the navbar
 
 
 
