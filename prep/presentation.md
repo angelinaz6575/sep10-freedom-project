@@ -4,13 +4,22 @@
 * One idea. One piece of technology. That's all it takes to change an entire industry.
 
 ## Product
-* Our product is infinite USB. Now, we came up with this because we were thinking a device that can prevent viruses - that contains encrypted backups and file recovery systems and to protect important data. Not only that but to aso help save data. Like many other USB, they store data too but they have certains storage limits that they can hold up to. With the infinite USB, there can be infinite amount of storage stored in one singular small technology. So you don't have to buy many many USB for more files. Just buy a infinite USB and hold it on for dear life! 
+* Our product is infinite USB. Now, we came up with this because we were thinking a device that can prevent viruses - that contains encrypted backups and file recovery systems and to protect important data. Not only that but to aso help save data. Like many other USB, they store data too but they have certains storage limits that they can hold up to. With the infinite USB, there can be infinite amount of storage stored in one singular small technology. So you don't have to buy many many USB for more files. Just buy a infinite USB and hold it on for dear life!
+
 
 ## Process
-*
+* Created wireframes for both mobile and desktop layouts to plan where each section of the website would go and what components we were planning to add as well as how we were planning to use our tools.
+* Show flowchart of plan. (We wrote down what fonts to use and the colors)
+* Explain the MVP and beyond MVP
+* Show code snippits of the html and css and explain how those code shaped the website
+* Code snippits of Aframe (Explain how I created the usb)
+
 
 ## Conclusion
-*
+* [URL to the project](https://tinyurl.com/4p36vazt)
+* Summarize- Creating this website helped me and my partner imrpove our learning, teamwork, and creativity skills. Overall, we are proud of how our website turned out.
+* Takeaways- teamwork and communication are improtant when building a project together, Fixing errors and creating new things takes practice and time. (It took many tries and time to learn how to use Aframe and make the Aframe model)
+
 
 <!-- EXAMPLE
 
