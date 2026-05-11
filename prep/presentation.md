@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* One idea. One piece of technology. That's all it takes to change an entire industry.
 
 ## Product
-* 
+* Our product is infinite USB. Now, we came up with this because we were thinking a device that can prevent viruses - that contains encrypted backups and file recovery systems and to protect important data. Not only that but to aso help save data. Like many other USB, they store data too but they have certains storage limits that they can hold up to. With the infinite USB, there can be infinite amount of storage stored in one singular small technology. So you don't have to buy many many USB for more files. Just buy a infinite USB and hold it on for dear life! 
 
 ## Process
-* 
+*
 
 ## Conclusion
-* 
+*
 
 <!-- EXAMPLE
 
