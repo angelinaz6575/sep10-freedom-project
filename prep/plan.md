@@ -38,6 +38,7 @@
 * Add images
 * Add another duture technology
 * Delete the support button on the navbar
+* make the usb float up and down
 
 
 
