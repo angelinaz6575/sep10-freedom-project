@@ -5,6 +5,10 @@
   </head>
   <body>
     <a-scene>
+    <a-entity
+
+      animation="property: position; dir: alternate; dur: 2000; easing: easeInOutSine; loop: true; to: 0 0.4 0">
+
       <a-box position="-1 0.7 -3"
       color="#454545" depth="1" height="0.5" width="2.5"
       metalness= "1" roughness= "0.1">
@@ -36,6 +40,7 @@
       <a-box position="-1 0.65 -3"
       color="#FF36F0" depth="1.05" height="0.05" width="2.55" roughness= "0">
     </a-box>
+</a-entity>
 
       <a-sky color="#ffffff"></a-sky>
  <a-cylinder id="ground" src="https://cdn.aframe.io/a-painter/images/floor.jpg" radius="32" height="0.1"></a-cylinder>
